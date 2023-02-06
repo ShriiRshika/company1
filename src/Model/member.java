@@ -1,6 +1,6 @@
 package Model;
 
-// test
+// test for github
 
 public class member {
 	private Integer id;
