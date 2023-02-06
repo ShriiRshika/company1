@@ -1,5 +1,7 @@
 package Model;
 
+//Test for GitHub
+
 public class member {
 	private Integer id;
 	private String name;
